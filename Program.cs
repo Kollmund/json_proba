@@ -16,7 +16,6 @@ namespace json_pro
             this.year = year;
         }
     }
-    // я тупой, не могу добавить структуру в струткуруру
 
     //    class Price
     //{
