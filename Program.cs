@@ -16,7 +16,6 @@ namespace json_pro
             this.year = year;
         }
     }
-    // я тупой, не могу добавить структуру в струткуруру
 
     //    class Price
     //{
@@ -36,7 +35,7 @@ namespace json_pro
     {
         static void Main(string[] args)
         {
-        
+        Console.Write("ХУЙ");
         }
     }
 }
