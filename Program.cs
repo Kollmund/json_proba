@@ -35,7 +35,7 @@ namespace json_pro
     {
         static void Main(string[] args)
         {
-        
+        Console.Write("ХУЙ");
         }
     }
 }
