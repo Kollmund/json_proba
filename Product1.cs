@@ -4,6 +4,6 @@
     {
         public int type;
         public string name;
-        public Price
+        public float Price;
     }
 }
