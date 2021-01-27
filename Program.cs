@@ -2,40 +2,25 @@
 
 namespace json_pro
 {
-    struct book
+
+    class Price
     {
-        public string name;
-        public string autor;
-        public int year;
-
-        //конструктор
-        public book(string name, string autor, int year)
-        {
-            this.name = name;
-            this.autor = autor;
-            this.year = year;
-        }
+        public double sum;
+        public string simbol;
     }
-
-    //    class Price
-    //{
-    //    public double sum;
-    //    public string simbol;
-
-    //}
-
-    //struct Product
-    //{
-    //    public int type;
-    //    public string name;
-    //    public Price;
-    //}
+    
+    struct Product
+    {
+        public int type;
+        public string name;
+        public Price price;
+    }
 
     class Program
     {
         static void Main(string[] args)
         {
-        Console.Write("ХУЙ");
+
         }
     }
 }
